@@ -19,7 +19,7 @@ Note: Your new user will be automatically added to the Group "sudoers". If you d
 
 *Select "Create Instance".
 
-*Select a boot disk (this script supports Debian or Linux).
+*Select a boot disk (this script supports Debian or Ubuntu).
 
 *Expand "Management, security, disks, networking, sole tenancy"
 
@@ -43,7 +43,7 @@ ii. For Ubuntu
 
 ## Option 2 - Run in the SSH Console Window
 
-*We assume that you have created an instance using a Linux boot disk (this script supports Debian or Linux).
+*We assume that you have created an instance using a Linux boot disk (this script supports Debian or Ubuntu).
 
 *Go to your Google Cloud Console. https://console.cloud.google.com
 
