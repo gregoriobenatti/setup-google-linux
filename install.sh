@@ -33,12 +33,12 @@ echo ''
 
 if [ $linux = "-u" ] ; then
   echo 'Now configuring your Ubuntu.'
-  wget https://github.com/eerolat/setup-google-linux/raw/master/doubuntu.sh
+  wget https://github.com/gregoriobenatti/setup-google-linux/raw/master/doubuntu.sh
   sh doubuntu.sh $username $password
   rm doubuntu.sh
 elif [ $linux = "-d" ] ; then
   echo 'Now configuring your Debian.'
-  wget https://github.com/eerolat/setup-google-linux/raw/master/dodebian.sh
+  wget https://github.com/gregoriobenatti/setup-google-linux/raw/master/dodebian.sh
   sh dodebian.sh $username $password
   rm dodebian.sh
 else
