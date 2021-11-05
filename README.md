@@ -27,12 +27,12 @@ Note: Your new user will be automatically added to the Group "sudoers". If you d
 
 i. For Debian
 ```
-   wget https://github.com/eerolat/setup-google-linux/raw/master/install.sh
+   wget https://github.com/gregoriobenatti/setup-google-linux/raw/master/install.sh
    sh install.sh -d myusername mypassword
 ```
 ii. For Ubuntu
 ```
-   wget https://github.com/eerolat/setup-google-linux/raw/master/install.sh
+   wget https://github.com/gregoriobenatti/setup-google-linux/raw/master/install.sh
    sh install.sh -u myusername mypassword
 ```
 *Click "Create" button.
@@ -55,12 +55,12 @@ ii. For Ubuntu
 
 i. On Debian
 ```
-   wget https://github.com/eerolat/setup-google-linux/raw/master/install.sh
+   wget https://github.com/gregoriobenatti/setup-google-linux/raw/master/install.sh
    sh install.sh -d myusername mypassword
 ```
 ii. On Ubuntu
 ```
-   wget https://github.com/eerolat/setup-google-linux/raw/master/install.sh
+   wget https://github.com/gregoriobenatti/setup-google-linux/raw/master/install.sh
    sh install.sh -u myusername mypassword
 ```
 *Wait for the script to finish.
