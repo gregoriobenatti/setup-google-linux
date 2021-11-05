@@ -15,7 +15,8 @@ sudo apt-get upgrade -y
 
 echo '==== Install packages ===='
 sudo apt-get install -y gnome-shell
-sudo apt-get install -y ubuntu-gnome-desktop
+# sudo apt-get install -y ubuntu-gnome-desktop
+sudo apt-get install -y gnome-session-flashback
 sudo apt-get install -y autocutsel
 sudo apt install -y xrdp
 sudo systemctl enable xrdp
